@@ -1,0 +1,33 @@
+<table class="table   align-items-center justify-content-center uk-vertical-align-middle ">
+    <thead  appCustom class="text-center">
+    
+        <th  class="bg-blue " rowspan="2" >#</th>
+        <th  scope="col"rowspan="2">Name</th>
+        <th  scope="col"rowspan="2">Email</th>
+        <th  scope="col" colspan="2" class="">Address</th>
+     
+        
+        <th rowspan="2"scope="col">Website</th>
+     
+     <tr>
+        <th>street</th>
+        <th>city</th>
+      </tr>
+    </thead> 
+    <tbody>
+      
+      <tr  *ngFor="let x of listuser">
+        <th    scope="row">{{x.id}}</th>
+        <td >{{x.name | customepipe}}</td>
+        <td >{{x.email | customepipe}}</td>
+        <td > {{x.address.street | customepipe}}</td>
+        <td >{{x.address.city | customepipe}}</td> 
+        <td >{{x.website | customepipe}}</td>
+      </tr>
+
+    </tbody>
+  </table>
+  
+
+   
+       

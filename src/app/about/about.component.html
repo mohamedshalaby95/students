@@ -1,0 +1,12 @@
+<div *ngIf="listtwo[0].name" class="jumbotron text-center">
+    <h1  > my name is {{listtwo[0].name | customepipe}}</h1>
+    <p class="lead">i live on {{listtwo[0].address.street | customepipe}} street in {{listtwo[0].address.city | customepipe}} city and my suite is{{listtwo[0].address.suite}}  </p>
+    <hr class="my-2">
+    <p>More info</p>
+    <h5> my phone is {{listtwo[0].phone}} and my website {{listtwo[0].website | customepipe}}</h5>
+    <p> i work in {{listtwo[0].company.name | customepipe}} company</p>
+    <p class="lead form-group">
+    <input #id class="form-control"  placeholder="more inf get by id " >    
+    </p>
+    <button class="btn btn-primary mr-5"  (click)="show(id.value)"> show inf</button>
+</div>

@@ -1,0 +1,190 @@
+{
+
+"users": [
+  {
+    "id": "1",
+    "name": "ahamed",
+    "username": "Bret",
+    "email": "Sincere@april.biz",
+    "address": {
+      "street": "shebben str",
+      "suite": "Apt. 556",
+      "city": "shebeen"
+      
+     
+    },
+    "phone": "012",
+    "website": "ahamed@gmail",
+    "company": {
+      "name": "dev"
+     
+    }
+  },
+  {
+    "id": "2",
+    "name": "mohamed",
+    "username": "Antonette",
+    "email": "mohamed.tv",
+    "address": {
+      "street": "cairo-str",
+      "suite": "Suite 879",
+      "city": "cairo"
+      
+      
+    },
+    "phone": "010",
+    "website": "mohamed.net",
+    "company": {
+      "name": "Deckow-Crist"
+    
+    }
+  },
+  {
+    "id": "3",
+    "name": "mostafa",
+    
+    "email": "mostafa.net",
+    "address": {
+      "street": "alex-str",
+      "suite": "Suite 847",
+      "city": "alex"
+     
+     
+    },
+    "phone": "015",
+    "website": "mos.info",
+    "company": {
+      "name": "faury"
+      
+    }
+  },
+  {
+    "id":"4",
+    "name": "ali",
+   
+    "email": "ali.org",
+    "address": {
+      "street": "sohag-str",
+      "suite": "Apt. 692",
+      "city": "sohage"
+     
+     
+    },
+    "phone": "0114",
+    "website": "ali.biz",
+    "company": {
+      "name": "cairo-dev"
+      
+    }
+  },
+  {
+    "id": "5",
+    "name": "elsayed",
+    "username": "Kamren",
+    "email": "elsayed@annie.ca",
+    "address": {
+      "street": "estobary",
+      "suite": "Suite 351",
+      "city": "menofia"
+      
+    
+    },
+    "phone": "234",
+    "website": "elsayed.info",
+    "company": {
+      "name": "elsayed-dev"
+    }
+  },
+  {
+    "id": "6",
+    "name": "nada",
+ 
+    "email": "nada.info",
+    "address": {
+      "street": "mansora-street",
+      "suite": "Apt. 950",
+      "city": "mansora"
+     
+    },
+    "phone": "010238741",
+    "website": "nada.org",
+    "company": {
+      "name": "egypt-dev"
+     
+    }
+  },
+  {
+    "id": "7",
+    "name": "heba",
+  
+    "email": "heba.biz",
+    "address": {
+      "street": "6-octabar-str",
+      "suite": "Suite 280",
+      "city": "6-octabar"
+     
+    },
+    "phone": "01567",
+    "website": "heba.io",
+    "company": {
+      "name": "heba Group"
+   
+    }
+  },
+  {
+    "id": "8",
+    "name": "basma",
+   
+    "email": "basma.me",
+    "address": {
+      "street": "street-mvc ",
+      "suite": "Suite 729",
+      "city": "sohbra"
+      
+    },
+    "phone": "01234785239",
+    "website": "basma.com",
+    "company": {
+      "name": "basma Group"
+     
+    }
+  },
+  {
+    "id": "9",
+    "name": "neamh",
+    
+    "email": "neamh.io",
+    "address": {
+      "street": "aswan Park",
+      "suite": "Suite 449",
+      "city": "aswan"
+     
+    },
+    "phone": "01369",
+    "website": "neamh.com",
+    "company": {
+      "name": "neamh-dev "
+    
+    }
+  },
+  {
+    "id": "10",
+    "name": "noura",
+  
+    "email": "noura.biz",
+    "address": {
+      "street": "loxur street",
+      "suite": "Suite 198",
+      "city": "loxur"
+      
+     
+    },
+    "phone": "013698741",
+    "website": "noura.net",
+    "company": {
+      "name": "noura LLC"
+      
+    }
+  }
+]
+}
